@@ -2,7 +2,7 @@
 
 A full-featured **healthcare consultation and appointment booking platform** built with **React.js**.
 
-Live Demo: *(deploy to Vercel — instructions below)*
+Live Demo: *https://healthconnect-seven.vercel.app*
 
 ---
 
